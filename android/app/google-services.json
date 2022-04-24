@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122623853882",
+    "firebase_url": "https://escuelapatagonica-4a795.firebaseio.com",
+    "project_id": "escuelapatagonica-4a795",
+    "storage_bucket": "escuelapatagonica-4a795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122623853882:android:212a94683581839f933c03",
+        "android_client_info": {
+          "package_name": "co.rzsoft.patagonica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122623853882-fui1u5tsfgepj4ufbo01mr59i0pfvnvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.rzsoft.patagonica",
+            "certificate_hash": "e1c927f92f0216f125accde34d3976ca6cdc50bd"
+          }
+        },
+        {
+          "client_id": "122623853882-1jdr1d5hn3o4ka0o33deqk59o1obtjl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUgvmC-AF6DJnKMKKac9GEqRrFgfHn8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122623853882-1jdr1d5hn3o4ka0o33deqk59o1obtjl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
